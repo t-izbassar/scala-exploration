@@ -1,3 +1,5 @@
+package basic
+
 /** Implicit rules:
   * - Marking rule: Only definitions marked ''implicit'' are available.
   * -  Scope rule: An inserted implicit conversion must be in scope as

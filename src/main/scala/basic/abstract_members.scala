@@ -1,3 +1,5 @@
+package basic
+
 object abstract_members extends App {
 
   trait Abstract {

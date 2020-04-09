@@ -1,3 +1,5 @@
+package basic
+
 object path_dependent_types extends App {
   class Food
   class Grass(name: String) extends Food

@@ -1,3 +1,5 @@
+package basic
+
 import scala.annotation.tailrec
 
 object lazy_vals extends App {

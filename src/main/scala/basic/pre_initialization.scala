@@ -1,3 +1,5 @@
+package basic
+
 object pre_initialization extends App {
 
   /** As traits don't have constructor the usual notion
